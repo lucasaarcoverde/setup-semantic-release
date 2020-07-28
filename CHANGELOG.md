@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v1.0.0...v1.1.0) (2020-07-28)
+
+
+### Features
+
+* **feat:** test feature commit ([55fe9a3](https://github.com/lucasaarcoverde/setup-semantic-release/commit/55fe9a3244aac4058837159023921128f05d25d0))
+* **feat:** test feature commit ([c4124f3](https://github.com/lucasaarcoverde/setup-semantic-release/commit/c4124f35d40ff8d92a15fcb0c9c44732d7a6a7fc))
+
 # 1.0.0 (2020-07-28)
 
 
