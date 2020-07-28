@@ -4,3 +4,4 @@
 - second feature commit
 - third feature commit 
 - feat
+- Major feature
