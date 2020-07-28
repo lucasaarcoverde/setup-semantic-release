@@ -1,3 +1,3 @@
 # setup-semantic-release
 
-- test feature commit 
+- first feature commit 
