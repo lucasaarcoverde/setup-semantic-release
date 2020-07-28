@@ -1,3 +1,15 @@
+# [1.5.0](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v1.4.0...v1.5.0) (2020-07-28)
+
+
+### Bug Fixes
+
+* **fix:** third feat ([bcb878e](https://github.com/lucasaarcoverde/setup-semantic-release/commit/bcb878ec818effcee6198e3da2836183f2c211ee))
+
+
+### Features
+
+* **feat:** new feat ([eff034e](https://github.com/lucasaarcoverde/setup-semantic-release/commit/eff034ec0eba37e986dcdaafc8fb97fe4107730c))
+
 # [1.4.0](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v1.3.0...v1.4.0) (2020-07-28)
 
 
