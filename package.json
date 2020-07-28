@@ -1,0 +1,37 @@
+{
+  "name": "setup-semantic-release",
+  "version": "1.0.0",
+  "description": "Testing semantic-relase setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "npx git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasaarcoverde/setup-semantic-release.git"
+  },
+  "author": "lucasaarcoverde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasaarcoverde/setup-semantic-release/issues"
+  },
+  "homepage": "https://github.com/lucasaarcoverde/setup-semantic-release#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.1",
+    "@commitlint/prompt": "^9.1.1",
+    "commitizen": "^4.1.2",
+    "husky": "^4.2.5"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
