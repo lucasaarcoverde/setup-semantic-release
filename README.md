@@ -1,3 +1,4 @@
 # setup-semantic-release
 
-- first feature commit 
+- first feature commit
+- second feature commit
