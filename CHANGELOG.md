@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v1.5.0...v2.0.0) (2020-07-28)
+
+
+### Features
+
+* **major feature:** add major feature ([48bee74](https://github.com/lucasaarcoverde/setup-semantic-release/commit/48bee74e6b883c0a061024894784ff79d0d97f02))
+
+
+### BREAKING CHANGES
+
+* **major feature:** readme
+
 # [1.5.0](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v1.4.0...v1.5.0) (2020-07-28)
 
 
