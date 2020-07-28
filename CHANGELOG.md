@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v2.1.0...v2.1.1) (2020-07-28)
+
+
+### Bug Fixes
+
+* **fix:** fix feat ([abda587](https://github.com/lucasaarcoverde/setup-semantic-release/commit/abda5873298d5cc2b92da9ac8747990d67d7fcf3))
+
 # [2.1.0](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v2.0.0...v2.1.0) (2020-07-28)
 
 
