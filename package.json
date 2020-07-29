@@ -1,6 +1,6 @@
 {
   "name": "setup-semantic-release",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Testing semantic-relase setup",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v2.1.1...v2.2.0) (2020-07-29)
+
+
+### Features
+
+* 🎸 test ([6bd0d30](https://github.com/lucasaarcoverde/setup-semantic-release/commit/6bd0d30571b58cfd17cb3f604962bfd108cba102))
+
 ## [2.1.1](https://github.com/lucasaarcoverde/setup-semantic-release/compare/v2.1.0...v2.1.1) (2020-07-28)
 
 
