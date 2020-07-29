@@ -2,11 +2,6 @@ language: node_js
 
 node_js:
   - 14
-env:
-  - GIT_AUTHOR_NAME=lucasaarcoverde
-  - GIT_AUTHOR_EMAIL=lucasaarcoverde@gmail.com
-  - GIT_COMMITTER_NAME=Lucas Arcoverde
-  - GIT_COMMITTER_EMAIL=lucasaarcoverde@gmail.com
 jobs:
   include:
     # Define the release stage that runs semantic-release
